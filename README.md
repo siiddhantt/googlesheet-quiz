@@ -33,5 +33,6 @@ https://googlesheet-quiz.herokuapp.com/
 
 - Fork the repository and clone it.
 - Node.js should be installed on the system.
+- Add a `credentials.json` file in the backend folder containing the Google API credentials and MongoDB URI.
 - After cloning the repository run command `npm install`.
 - Start the app using `npm start` command.
